@@ -1,0 +1,8 @@
+README.md
+setup.py
+tempalte_with_circle_ci.egg-info/PKG-INFO
+tempalte_with_circle_ci.egg-info/SOURCES.txt
+tempalte_with_circle_ci.egg-info/dependency_links.txt
+tempalte_with_circle_ci.egg-info/top_level.txt
+tests/__init__.py
+tests/test_script.py
